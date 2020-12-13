@@ -5,7 +5,7 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A basic blog homepage HTML template built with Bootstrap",
+    "description": "Some random change to test git pull requests",
     "keywords": [
         "css",
         "sass",
